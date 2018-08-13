@@ -6,6 +6,7 @@ RUN apt-get update && \
     apt-get install -y ssh \
                        iputils-ping \
                        wget \
+                       curl \
                        git \
                        zip \
                        make \
